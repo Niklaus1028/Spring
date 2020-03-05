@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ff65b96-4c85-4048-8efe-3f8546934a98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDay01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/dao/ProdDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/factory/BeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/factory/BeanFactory2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/lazy/LazyInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/person/Person01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/person/Person02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/single/SingleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/test/TestLazyInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/test/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/test/TestPerson02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/test/TestProdDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tedu/test/TestSingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tedu/dao/ProdDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tedu/factory/BeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tedu/factory/BeanFactory2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tedu/lazy/LazyInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tedu/person/Person01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tedu/person/Person02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tedu/person/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tedu/single/SingleDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tedu/test/TestLazyInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tedu/test/TestPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tedu/test/TestPerson02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tedu/test/TestProdDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tedu/test/TestSingle.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-context" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YfOkguupvo8qn4o12tS7miEglI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestProdDao.test01">
+    <configuration name="TestLazyInit.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDay01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.test.TestLazyInit" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPerson02.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDay01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.test.TestPerson02" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProdDao.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDay01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.test.TestProdDao" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSingle.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDay01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.test.TestSingle" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSingle.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDay01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.test.TestSingle" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestProdDao.test01" />
+        <item itemvalue="JUnit.TestLazyInit.test01" />
+        <item itemvalue="JUnit.TestSingle.test02" />
+        <item itemvalue="JUnit.TestSingle.test01" />
+        <item itemvalue="JUnit.TestPerson02.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ff65b96-4c85-4048-8efe-3f8546934a98" name="Default Changelist" comment="" />
+      <created>1583330326790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583330326790</updated>
+      <workItem from="1583330329930" duration="538000" />
+      <workItem from="1583373096807" duration="3000" />
+      <workItem from="1583373106660" duration="9160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1583379764371">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1583379764371" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1583416202696">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583416202696" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1583416202695">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583416202695" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1583416202694">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583416202694" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1583416202695">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583416202695" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1583416163049">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583416163049" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1583416163045">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1583416163045" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1583416163045">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1583416163045" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1583416163048">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1583416163048" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1583416621950">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1583416621950" />
+    <state x="378" y="212" width="683" height="476" key="find.popup" timestamp="1583374305210">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="212" width="683" height="476" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1583374305210" />
+  </component>
+</project>

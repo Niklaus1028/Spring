@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd
+">
+    <!--
+scope属性控制当前bean的创建模式:
+singleton:则当前bean处在单例模式中,默认就是此模式
+prototype:则当前bean处在多例模式中 -->
+    <bean id="demo" class="cn.tedu.single.SingleDemo"></bean>
+    <bean id="demo1" class="cn.tedu.single.SingleDemo" scope="prototype"></bean>
+</beans>
