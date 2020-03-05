@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd
+" default-autowire="byName"
+>
+    <bean id="teacher" class="cn.tedu.beans.Teacher" ></bean>
+    <bean id="dog" class="cn.tedu.beans.Dog">
+        <property name="id" value="1"></property>
+        <property name="name" value="旺财"></property>
+        <property name="age" value="2"></property>
+    </bean>
+    <bean id="cat" class="cn.tedu.beans.Cat">
+        <property name="id" value="3"></property>
+        <property name="name" value="小白"></property>
+        <property name="age" value="4"></property>
+
+    </bean>
+</beans>
