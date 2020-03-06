@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd
+       http://www.springframework.org/schema/aop
+       http://www.springframework.org/schema/aop/spring-aop.xsd
+       http://www.springframework.org/schema/util
+       http://www.springframework.org/schema/util/spring-util.xsd
+
+">
+    <!--配置包扫描-->
+    <context:component-scan base-package="cn.tedu.beans"></context:component-scan>
+    <!--开启注解配置DI-->
+    <context:annotation-config></context:annotation-config>
+    <!--加载配置文件的位置-->
+    <context:property-placeholder location="classpath:student-data.properties"></context:property-placeholder>
+    <!--配置集合类型数据注入-->
+    <util:list id="l1">
+        <value>aaa</value>
+        <value>bbb</value>
+        <value>ccc</value>
+    </util:list>
+    <util:set id="s1">
+        <value>黎明使者</value>
+        <value>影流之主</value>
+    </util:set>
+    <util:map id="m1">
+        <entry key="k1" value="v1"></entry>
+        <entry key="k2" value="v2"></entry>
+    </util:map>
+    <util:properties id="p1">
+        <prop key="p1">艾欧尼亚</prop>
+        <prop key="p2">征服之海</prop>
+    </util:properties>
+
+</beans>
+
+
